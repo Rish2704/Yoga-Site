@@ -138,7 +138,7 @@ header {
 .text{
   position: absolute;
   top: 35%;
-  left: 50%;
+  left: 55%;
 }
 
 .text h1{
@@ -148,7 +148,7 @@ header {
 }
 
 .text p{
-    color:rgb(34, 194, 206);
+    color:black;
     font-weight: bolder;
     font-size: 1.2rem;
 }
